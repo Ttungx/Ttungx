@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![11](https://raw.githubusercontent.com/Ttungx/svg/refs/heads/main/emoji.svg)
