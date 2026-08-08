@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Interested in AI & Cybersecurity · researching [Just-in-Time Research](https://github.com/Ttungx/just-in-time-research)
 
-> *I think, therefore I am.**
-> **Status: 200 OK*
+> *I think, therefore I am.*
+> *Status: 200 OK*
 
 ---
 
