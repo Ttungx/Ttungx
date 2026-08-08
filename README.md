@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![11](https://raw.githubusercontent.com/Ttungx/svg/main/emoji2.svg)
+Hi, you can call me **Young**.
+
+> I think, therefore I am. | 我思故我在.
+
+My Day-to-Day Token Usage:
+
+![token-card](https://raw.githubusercontent.com/Ttungx/token-history/master/charts/day/pixel-card.svg)
+
+![token-bar](https://raw.githubusercontent.com/Ttungx/token-history/master/charts/day/pixel-tokens.svg)
