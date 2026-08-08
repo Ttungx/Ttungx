@@ -13,9 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, you can call me **Young**.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F3B95F&random=false&width=435&height=35&lines=Young+%F0%9F%91%8B+%7C+200+OK" alt="Typing SVG" /></a>
+
+---
+
+Interested in AI & Cybersecurity · researching [Just-in-Time Research](https://github.com/Ttungx/just-in-time-research)
 
 > I think, therefore I am. | 我思故我在.
+>
+> Status: 200 OK — the answer is already in the response.
+
+---
 
 My Day-to-Day Token Usage:
 
