@@ -21,11 +21,3 @@ Interested in AI Agent
 
 > *I think, therefore I am.*  
 > *Status: 200 OK*
-
----
-
-My Day-to-Day Token Usage:
-
-![token-card](https://raw.githubusercontent.com/Ttungx/token-history/master/charts/day/pixel-card.svg)
-
-![token-bar](https://raw.githubusercontent.com/Ttungx/token-history/master/charts/day/pixel-tokens.svg)
